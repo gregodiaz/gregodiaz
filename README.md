@@ -1,8 +1,8 @@
 <h1 align="center">I'm Gregorio Diaz</h1>
 <h3 align="center">A Full Stack Developer with strong Frontend experience</h3>
 
-- 🔭 I'm currently working on [DChess](https://dchessmasters.com)
-
+<!-- - 🔭 I'm currently working on [DChess](https://dchessmasters.com) -->
+<!-- -->
 - 🌱 I'm currently learning testing and improving my full-stack development skills
 
 - 👯 I'm looking to collaborate on innovative web development projects
